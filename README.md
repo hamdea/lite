@@ -1,4 +1,4 @@
-## <b>installation</b>
+## <b>Tool Type</b>
 
 ```
 Tool For Multi Friendlist Cloning
