@@ -1,4 +1,7 @@
-import platform
+import platform,os
+os.system('git pull')
+os.system('clear')
+
 
 arc = str(platform.uname().machine)
 if 'arm' in arc:
