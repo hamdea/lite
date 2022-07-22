@@ -5,7 +5,7 @@ os.system('clear')
 
 arc = str(platform.uname().machine)
 if 'arm' in arc:
-	print('your mobile is 32 bit :)')
+	__import__("litex").login()
 elif 'aarch' in arc:
 	__import__("lite").login()
 else:
