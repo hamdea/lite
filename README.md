@@ -9,7 +9,7 @@ Tool For Multi Friendlist Cloning
 ```
 $ termux-setup-storage
 
-$ rm -rf PROHACK
+$ rm -rf lite
 $ pkg update
 $ pkg upgrade
 $ pkg install python
